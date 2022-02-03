@@ -1,3 +1,3 @@
 # Hello-World
 first repository
-These are some initial changes I'm making.
+These are some final changes I'm making.
